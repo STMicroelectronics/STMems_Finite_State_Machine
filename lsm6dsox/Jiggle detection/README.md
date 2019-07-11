@@ -23,4 +23,4 @@ The configuration generates an interrupt on INT1 when the *jiggle* gesture is de
 
 **More Information: [http://www.st.com](http://st.com/MEMS)**
 
-**Copyright (C) 2019 STMicroelectronics**
+**Copyright © 2019 STMicroelectronics**

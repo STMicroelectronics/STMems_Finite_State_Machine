@@ -1,6 +1,6 @@
 ## 1 - Introduction
 
-Simple *shake* gesture example for smartphone devices. The gesture is detected when the user is shaking the accelerometer along the X-axis. 
+Simple *shake* gesture example for smartphone devices. This gesture is detected when the user is shaking the accelerometer along the X-axis. 
 
 The configuration runs at 26 Hz.
 
@@ -23,4 +23,4 @@ The configuration generates an interrupt on INT1 when the *shake* gesture is det
 
 **More Information: [http://www.st.com](http://st.com/MEMS)**
 
-**Copyright (C) 2019 STMicroelectronics**
+**Copyright © 2019 STMicroelectronics**

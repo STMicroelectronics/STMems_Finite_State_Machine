@@ -1,17 +1,17 @@
 ## 1 - Introduction
 
-This repository is intended to provide information on the **Finite State Machine** feature available on some [STMicroelectronics](www.st.com/mems) sensors.
+This repository is intended to provide information on the **Finite State Machine** feature available in some [STMicroelectronics](www.st.com/mems) sensors.
 
-The Finite State Machine processing capability allows moving some algorithms from the application processor to the *STMicroelectronics* sensor, enabling consistent reduction of power consumption. The sensor can be configured to detect user-defined motion patterns.
+Finite State Machine processing allows moving some algorithms from the application processor to the *STMicroelectronics* sensor, enabling consistent reduction of power consumption. The sensor can be configured to detect user-defined motion patterns.
 
-A Finite State Machine is a mathematical abstraction used to design logic connections. It is a behavioral model composed of a finite number of states and transitions between states, similar to a flowchart in which it is possible to inspect the way logic runs when certain conditions are met. The state machine begins with a *Start* state, goes to different states through transitions dependent on the inputs, and can finally end in a specific state (called *Stop* state). The current state is determined by the past states of the system.
+A Finite State Machine is a mathematical abstraction used to design logic connections. It is a behavioral model composed of a finite number of states and transitions between states, similar to a flowchart in which it is possible to inspect the way logic runs when certain conditions are met. The state machine begins with a *Start* state, goes to different states through transitions dependent on the inputs, and finally ends in a specific state (called *Stop* state). The current state is determined by the past states of the system.
 
-The results of the Finite State Machine can be read from the application processor at any time. Furthermore, there is the possibility to **generate an interrupt** when the user-defined motion patterns is detected.
+The results of the Finite State Machine can be read from the application processor at any time. Furthermore, there is the possibility to **generate an interrupt** when a user-defined motion patterns is detected.
 
 
 ## 2 - Repository folder structure
 
-This repository contains different folders which identifies sensor part numbers supporting the **Finite State Machine** feature.
+This repository contains different folders which identify sensor part numbers supporting the **Finite State Machine** feature.
 
 Each folder related to the sensor part number contains sub-folders with examples of **Finite State Machine** configurations. See a typical path below:
 
@@ -19,7 +19,7 @@ Each folder related to the sensor part number contains sub-folders with examples
 \lsm6dsox\Shake detection\
 ````
 
-## 3 - Example sub-folder files description 
+## 3 - Example sub-folder file description 
 
 Each example sub-folder contains:
 
@@ -44,12 +44,12 @@ For using *Unico GUI* Configuration Files (`.ucf`):
 > * Unico GUI for device configuration
 
 
-## 5 - Running Examples
+## 5 - Examples
 
 The examples can be used with:
 
 - **Unico GUI** (available for: [Windows](https://www.st.com/content/st_com/en/products/embedded-software/evaluation-tool-software/stsw-mki109w.html), [Linux](<https://www.st.com/content/st_com/en/products/embedded-software/evaluation-tool-software/stsw-mki109l.html>), [Mac OS X](<https://www.st.com/content/st_com/en/products/embedded-software/evaluation-tool-software/stsw-mki109m.html>)) and  [Professional MEMS Tool board](<https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mems-motion-sensor-eval-boards/steval-mki109v3.html#overview>) (STEVAL-MKI109V3)
-  - Run *Unico GUI* selecting the desired device, then go to *Load/Save* tab, and load the *Unico GUI* Configuration File (`.ucf`)
+  - Run *Unico GUI* selecting the desired device, then go to the *Load/Save* tab, and load the *Unico GUI* Configuration File (`.ucf`)
 - Any *C-programmable* hardware
   - Include the C header file (`.h`) in the desired project
   - Use the desired interface C library for the target *MCU* for writing the array configuration contained in the *C header* file (`.h`)
@@ -59,4 +59,5 @@ The examples can be used with:
 
 **More Information: [http://www.st.com](http://st.com/MEMS)**
 
-**Copyright (C) 2019 STMicroelectronics**
+**Copyright © 2019 STMicroelectronics**
+

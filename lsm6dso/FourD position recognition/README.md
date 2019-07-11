@@ -28,4 +28,4 @@ The configuration generates an interrupt on INT1 when a change in the orientatio
 
 **More Information: [http://www.st.com](http://st.com/MEMS)**
 
-**Copyright (C) 2019 STMicroelectronics**
+**Copyright © 2019 STMicroelectronics**
