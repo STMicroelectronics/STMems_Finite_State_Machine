@@ -138,11 +138,11 @@ The UCF file can be used as-is by several software tools provided by ST: Unico G
 
 **UCF files can also be converted to C source code** and saved as header *.h* files to be conveniently included in C projects: click on the *Options* tab, select *Browse* and load the UCF file, then click on *Generate C code*.
 
-An example on how to use the generated *.h* file in a standard C driver is available in the [STMems_Standard_C_drivers repository](https://github.com/STMicroelectronics/STMems_Standard_C_drivers/blob/master/lsm6dsox_STdC/example/lsm6dsox_mlc.c).
+An example on how to use the generated *.h* file in a standard C driver is available in the [STMems_Standard_C_drivers repository](https://github.com/STMicroelectronics/STMems_Standard_C_drivers/blob/master/lsm6dsox_STdC/examples/lsm6dsox_mlc.c).
 
 ------
 
 **More Information: [http://www.st.com](http://st.com/MEMS)**
 
-**Copyright © 2020 STMicroelectronics**
+**Copyright © 2021 STMicroelectronics**
 
