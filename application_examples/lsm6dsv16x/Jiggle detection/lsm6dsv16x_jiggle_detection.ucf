@@ -1,6 +1,6 @@
--- MLC+FSM Merge Tool v9.13.0.0, STEVAL-MKI227A (LSM6DSV16X)
+-- MLC+FSM Merge Tool v9.14.6.0, STEVAL-MKI227KA (LSM6DSV16X)
 
--- Finite State Machine Tool v9.13.0.0, STEVAL-MKI227A (LSM6DSV16X)
+-- Finite State Machine Tool v9.14.6.0, STEVAL-MKI227KA (LSM6DSV16X)
 -- <FSM_OUTS1>FSM1
 -- <FSM_OUTS2>FSM2
 -- <FSM_OUTS3>FSM3
@@ -9,8 +9,8 @@
 -- <FSM_OUTS6>FSM6
 -- <FSM_OUTS7>FSM7
 -- <FSM_OUTS8>FSM8
--- Machine Learning Core Tool v9.13.0.0, LSM6DSV16X
--- <MLC1_SRC>DT1,0='false',4='true'
+-- Machine Learning Core Tool v9.14.6.0, LSM6DSV16X
+-- <MLC1_SRC>,0='255'
 Ac 10 00
 Ac 11 00
 Ac 01 80
@@ -96,10 +96,10 @@ Ac 05 00
 Ac 17 40
 Ac 02 11
 Ac 08 EA
-Ac 09 2A
-Ac 09 02
-Ac 09 3A
-Ac 09 02
+Ac 09 72
+Ac 09 03
+Ac 09 82
+Ac 09 03
 Ac 09 00
 Ac 09 00
 Ac 09 0A
@@ -107,14 +107,14 @@ Ac 09 01
 Ac 09 FF
 Ac 02 11
 Ac 08 FA
-Ac 09 14
-Ac 09 02
-Ac 09 3C
-Ac 09 02
-Ac 09 48
-Ac 09 02
-Ac 02 21
-Ac 08 14
+Ac 09 5C
+Ac 09 03
+Ac 09 84
+Ac 09 03
+Ac 09 90
+Ac 09 03
+Ac 02 31
+Ac 08 5C
 Ac 09 08
 Ac 09 00
 Ac 09 00
@@ -137,8 +137,8 @@ Ac 09 00
 Ac 09 00
 Ac 09 1F
 Ac 09 00
-Ac 02 21
-Ac 08 3C
+Ac 02 31
+Ac 08 84
 Ac 09 00
 Ac 09 00
 Ac 09 00
@@ -153,13 +153,12 @@ Ac 09 00
 Ac 01 00
 Ac 01 80
 Ac 17 40
-Ac 02 21
-Ac 08 48
+Ac 02 31
+Ac 08 90
 Ac 09 00
 Ac 09 7C
 Ac 09 40
 Ac 09 E0
-Ac 01 80
 Ac 17 00
 Ac 04 00
 Ac 05 10

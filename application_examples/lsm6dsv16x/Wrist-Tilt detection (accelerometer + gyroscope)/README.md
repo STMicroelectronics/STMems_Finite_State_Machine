@@ -4,7 +4,7 @@ This Finite State Machine (FSM) example implements the *wrist-tilt* gesture typi
 
 The FSM processes data coming from both accelerometer and gyroscope, configured in low-power mode at 60 Hz.
 
-The two configurations for left wrist worn case and right worn case are provided separately.
+The two configurations for left wrist worn case and right worn case are provided separately. 
 
 Configurable parameters:
 
