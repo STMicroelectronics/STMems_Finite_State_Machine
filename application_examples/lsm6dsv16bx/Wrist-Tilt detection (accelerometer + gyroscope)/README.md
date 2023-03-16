@@ -13,7 +13,7 @@ Configurable parameters:
 - Accelerometer threshold on +x (for left wrist) or -x (for right wrist) and +y axis, default is -0.5 g
 - +y check time, default is 150 ms (9 samples)
 
-Overall current consumption is 330 µA.
+Overall current consumption is 335 µA.
 
 
 ## 2 - Device orientation

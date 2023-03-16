@@ -10,7 +10,7 @@ Configurable parameters:
 - On table detection time, default is 3 s (90 samples)
 - Pick-up detection threshold, default is 1.1 g
 
-Overall current consumption is 15 µA.
+Overall current consumption is 16 µA.
 
 
 ## 2 - Device orientation

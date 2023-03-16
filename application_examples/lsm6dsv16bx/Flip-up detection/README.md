@@ -11,7 +11,7 @@ Configurable parameters:
 - Flip-up detection thresholds, defaults are 0.3 g (x-axis) and 0.8 g (z-axis)
 - Flip-up detection time, default is 4 s (120 samples)
 
-Overall current consumption is 16  µA.
+Overall current consumption is 17  µA.
 
 
 ## 2 - Device orientation

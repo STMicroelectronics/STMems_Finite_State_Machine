@@ -12,7 +12,7 @@ Configurable parameters:
 - Wrist-tilt time, default is 233 ms  (7 samples)
 - De-wrist-tilt time, default is 500 ms (15 samples)
 
-Overall current consumption is 18  µA.
+Overall current consumption is 19  µA.
 
 
 ## 2 - Device orientation
