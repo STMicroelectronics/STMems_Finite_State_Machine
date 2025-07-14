@@ -1,3 +1,14 @@
+Important Notice
+==================
+
+DISCONTINUED (July 2025): the maintenance for this repository has been discontinued.
+
+Please refer to:
+
+https://github.com/STMicroelectronics/st-mems-finite-state-machine
+
+for the up-to-date tutorials and examples for the Finite State Machine (FSM) feature available in STMicroelectronics MEMS sensors.
+
 ## Finite State Machine
 
 This repository provides information, examples and configurations of the **Finite State Machine** (FSM) feature available in some products in the [**ST sensors portfolio**](https://www.st.com/en/mems-and-sensors.html?sc=MEMS). 
